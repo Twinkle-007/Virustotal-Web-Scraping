@@ -10,6 +10,8 @@ Requirements:
 
 *****Before you run this script make sure to change the below-highlighted paths and add your own paths.*****
 
+![image](https://user-images.githubusercontent.com/45007930/123510076-14110e80-d697-11eb-87b5-65b804528120.png)
+
 *****You need to create a file named "results.json" on your path.*****
 
 How to use
