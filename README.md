@@ -20,6 +20,8 @@ Step 1: Download the latest stable release of Chromedriver and put it into "Viru
 
 Download Link: https://chromedriver.chromium.org/
 
+***Also you can edit the "whitelist.cfg" file and add or remove file extensions from there. Files with those extensions will not scan. 
+
 ![image](https://user-images.githubusercontent.com/45007930/123509869-a1ebfa00-d695-11eb-8ddb-0ec9839a2179.png)
 
 Step 2: Open terminal and go to "Virustotal-Web-Scraping" directory and run below command.
