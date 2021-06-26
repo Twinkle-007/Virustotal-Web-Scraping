@@ -1,4 +1,4 @@
-# Virustotal Web Scraping Automation
+# Virustotal Automation with Web Scraping
 
 ***** YOU DO NOT NEED API KEY *****
 
