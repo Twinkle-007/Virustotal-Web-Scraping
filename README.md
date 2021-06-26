@@ -31,3 +31,5 @@ Command: python3 virustotal.py
 Result
 
 ![image](https://user-images.githubusercontent.com/45007930/123509937-28084080-d696-11eb-8acc-8d7eede5e4a9.png)
+
+![image](https://user-images.githubusercontent.com/45007930/123510179-bcbf6e00-d697-11eb-90c8-e9bbf328013e.png)
